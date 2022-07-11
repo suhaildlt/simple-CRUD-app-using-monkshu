@@ -1,0 +1,9 @@
+{
+    "/apis/message": "/apis/message.js?get=true&needsToken=false&addsToken=sub:access",
+    "/apis/random": "/apis/random.js?get=true&needsToken=true",
+    "/apis/time": "/apis/time.js",
+    "/apis/viewdirectory": "/apis/viewdirectory.js?needsToken=false",
+    "/apis/addtodirectory": "/apis/addtodirectory.js?post=true&needsToken=false",
+    "/apis/updatedirectory": "/apis/updatedirectory.js?put=true&needsToken=false",
+    "/apis/deletedirectory": "/apis/deletedirectory.js?delete=true&needsToken=false"
+}
